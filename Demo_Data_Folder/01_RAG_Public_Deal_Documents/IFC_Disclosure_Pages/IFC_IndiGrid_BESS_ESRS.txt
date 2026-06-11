@@ -1,0 +1,700 @@
+49907 - IndiGrid BESS
+Skip to Main Navigation
+Disclosures
+Insights & Reports
+News
+Who We Are
+Who We Are
+IFC is the largest global development institution focused on the private sector in developing countries. By encouraging growth, IFC advances economic development, creates jobs and improves the lives of people.
+More About Us
+About IFC
+Our Leadership
+Development Partners
+Accountability
+Learn more about accountability
+Annual Report
+Download the Report
+What We Do
+What We Do
+IFC advances economic development and improves the lives of people by encouraging the growth of the private sector in developing countries. We achieve this by investing in impactful projects, mobilizing other investors, and sharing expertise.
+What We Do Overview
+SOLUTIONS
+Our products and services
+OUR PRIORITIES
+Climate Business
+Fragile & Conflict Afflicted Situations
+Gender
+Mobilizing Private Capital
+Sustainability
+SECTORS & EXPERTISE
+Agribusiness & Forestry
+Creative Industries
+Education
+Financial Institutions
+Funds
+Health
+Infrastructure
+Manufacturing
+Public-Private Partnerships
+Tourism, Retail & Property
+Trade & Supply Chain Finance
+Venture Capital
+Working Upstream
+Where We Work
+Where We Work
+As the largest global development institution focused on the private sector, IFC operates in more than 100 countries around the globe. We apply lessons learned in one region to solve problems in another.
+Overview
+By Region
+Africa
+East Asia and Pacific
+Europe
+Latin America and the Caribbean
+Middle East and Central Asia
+South Asia
+Our Impact
+Our Impact
+Our impact improves lives. IFC brings a clear set of advantages to the world’s most challenging markets. Including a history of innovation, a global mandate, and a determination to achieve measurable development impact.
+Our Impact Overview
+PRINCIPLES & MEASUREMENT
+Impact Investing at IFC
+Measuring and Monitoring (AIMM)
+Evaluation
+Sustainable Development Goals (SDGs)
+Work With Us
+Work With Us
+Owned by 186 member countries and consistently rated AAA/Aaa. IFC aims to achieve our mission of promoting development by providing debt and equity to the private sector, through a range of benchmark and bespoke products.
+For Partners
+Partners
+Governments
+CSOs/NGOs
+For Investors
+Funding Program & Investor Relations
+Green Bonds
+Social Bonds
+Get in Touch
+Apply for Financing
+World Bank Group Careers
+General Inquiries
+Contact Directory
+global Search dropdown
+Search ifc.org
+Global Search
+Search button
+Who We Are
+Back
+Who We Are
+More About Us
+About IFC
+Our Leadership
+Development Partners
+Accountability
+Learn more about accountability
+Annual Report
+Download the Report
+What We Do
+Back
+What We Do
+What We Do Overview
+View all projects
+SOLUTIONS
+Our products and services
+OUR PRIORITIES
+Climate Business
+Fragile & Conflict Afflicted Situations
+Gender
+Mobilizing Private Capital
+Sustainability
+SECTORS & EXPERTISE
+Agribusiness & Forestry
+Creative Industries
+Education
+Financial Institutions
+Funds
+Health
+Infrastructure
+Manufacturing
+Public-Private Partnerships
+Tourism, Retail & Property
+Trade & Supply Chain Finance
+Venture Capital
+Working Upstream
+Where We Work
+Back
+Where We Work
+Overview
+By Region
+Africa
+East Asia and Pacific
+Europe
+Latin America and the Caribbean
+Middle East and Central Asia
+South Asia
+Our Impact
+Back
+Our Impact
+Our Impact Overview
+PRINCIPLES & MEASUREMENT
+Impact Investing at IFC
+Measuring and Monitoring (AIMM)
+Evaluation
+Sustainable Development Goals (SDGs)
+Disclosures
+Insights & Reports
+News
+Work with us
+On selection, leaving this page
+Work With Us
+Partners
+Governments
+CSOs/NGOs
+IFC Disclosure Portal
+Project Detail
+Share this page
+Facebook
+x
+LinkedIn
+instagram
+Email
+whatsup
+Share this page
+Facebook
+x
+LinkedIn
+instagram
+Email
+whatsup
+PROJECT
+Projects
+Back to Search
+DISCLOSURES MENU
+Home
+IFC Projects
+IFC Corporate Disclosures
+Transparency at IFC
+INQUIRIES
+SUBSCRIPTION
+Environmental & Social Review Summary
+Project Number
+49907
+Company Name
+IndiGrid Infrastructure Trust
+Date ESRS Disclosed
+Jun 6, 2025
+Country
+India
+Region
+South Asia
+Last Updated Date
+Jun 6, 2025
+Environmental Category
+B - Limited
+Status
+Active
+Previous Events
+Approved : Feb 27, 2025
+Signed : Apr 24, 2025
+Invested : Apr 28, 2025
+Sector
+Electric Power Transmission
+Industry
+Infrastructure
+Department
+Regional Industry - INF Asia & Pac
+Project Description
+IndiGrid is an infrastructure investment trust (“InvIT”) registered with the Securities and Exchange Board of India (“SEBI”), the regulator for capital markets in India. It was incorporated in October 2016 under SEBI InvIT Regulations 2014 to own and operate power transmission and renewable energy assets in India. IndiGrid is India’s first listed power sector InvIT with assets under management (AUM) of US$3.2 billion. It owns 16 operating and two under-construction transmission projects and 19 solar projects with a capacity of 855 MW spread across India. The IndiGrid InvIT is managed through IndiGrid Investment Managers Limited (IIML), an asset management company (AMC) responsible for managing the InvIT, including acquisition/divestment of assets and operations and management. In 2023, the International Finance Corporation (IFC) committed INR 27.9 billion (equivalent to USD 339 million) loan to IndiGrid InvIT to be used for five transmission line (TL) assets in the IndiGrid InvIT; please refer to its environmental and social review summary at
+https://disclosures.ifc.org/project-detail/ESRS/45645/indigrid
+(“IndiGrid TL” or “previous investment”). The E&S performance for this project is Satisfactory.
+The proposed IFC investment consists of a straight senior loan of up to US$55 million (INR equivalent) to IndiGrid InvIT (“IndiGrid”). The Facility comprises Non-convertible Debentures (NCD) issuance by IndiGrid (the ‘Issuer’) and subscription by IFC of up to US$55million (INR equivalent) Straight Senior Loan. The proposed financing package will be comprised of: (a) an IFC A Loan of up to US$38.5million; and (b) a concessional senior loan of up to US$16.5million from IFC in its capacity as implementing entity of Clean Technology Fund Global Energy Storage Program (“CTF GESP”). These NCDs will be rated, listed, secured and redeemable, denominated in Indian Rupees.
+The BESS Project will be implemented through Gujarat BESS Project Limited (GBPL), a special purpose vehicle incorporated to develop and implement the BESS Project. GUVNL has entered into a Battery Energy Storage Purchase Agreement (the project agreement”) with GBPL. GBPL will commission the BESS Project within 18 months of the agreement, operate and manage it for twelve years from the date of full commissioning, and decommission it upon the expiry of the project agreement. GUVNL has identified 40,000 sqm of land in the Gujarat Electricity Transmission Company (GETCO) substation at Charal in Gujarat. GETCO will provide land for the BESS project on a right-to-use basis for periods coterminous with the project agreements. The BESS Project land is in the Sanand industrial area of the Gujarat Industrial Development Corporation (GIDC) near Ahmedabad in Gujarat.  The project is scheduled to be commissioned by February 2026. GBPL is in the process of appointing contractors and suppliers for the project.
+Overview of IFC's Scope of Review
+IFC reviewed this proposed investment by appraising the available documentation on the BESS Project, IndiGrid’s E&S management systems (ESMS), environmental health and safety (EHS), human resources (HR) policies and procedures, organizational capacities, and its effective implementation in the project preparation.
+In June 2024, the IFC team visited the BESS Project site at Charal near Ahmedabad in Gujarat, conducted a site assessment, and held meetings with the company’s senior management team, technical operations, and E&S staff at the corporate office, and government authorities.
+E & S Project Categorization and Applicable Standard
+Identified Applicable Performance Standards
+While all Performance Standards are applicable to this investment, IFC’s environmental and social due diligence indicates that the investment will have impacts which must be managed in a manner consistent with the following Performance Standards
+PS 1 - Assessment and Management of Environmental and Social Risks and Impacts
+PS 2 - Labor and Working Conditions
+PS 3 - Resource Efficiency and Pollution Prevention
+PS 4 - Community Health, Safety and Security
+Given that the project will be located in the existing premises of the GETCO substations in the industrial area and is not anticipated to introduce additional risks or impacts to land acquisition, issues related to land acquisition (PS5), biodiversity conservation (PS6), indigenous peoples (PS7), or cultural heritage (PS8) are not expected.
+If IFC’s investment proceeds, IFC will periodically review the project’s ongoing compliance with the Performance Standards.
+Environmental and Social Categorization and Rationale
+This is a Category B project according to IFC's Policy on Environment and Social Sustainability (2012). Based on the information reviewed by IFC, the proposed BESS Project will have few adverse E&S impacts that are limited to the project footprint, site-specific, largely reversible, and can be readily addressed through existing mitigation measures and good international industry practices (GIIP).
+Key E&S risks and issues include i) the company's management and monitoring systems to assess and manage E&S risks and impacts from the design, construction, and operations of the project, as well as climate change, ii) battery and electronic component-related supply chain risk management, iii) monitoring and management of fire and explosion risks in the transportation, installation, and operation of the BESS, iv) battery waste and electronic waste management, v) emergency preparedness and response planning, and vi) the company’s stakeholder engagement with the local community and relevant stakeholders, such as its suppliers and GIDC.
+Environmental and Social Mitigation Measures
+Environmental and Social Mitigation Measures
+IFC’s appraisal considered the environmental and social management planning process and documentation for the Project and gaps, if any, between these and IFC’s requirements. Where necessary, corrective measures, intended to close these gaps within a reasonable period of time, are summarized in the paragraphs that follow and (if applicable) in an agreed Environmental and Social Action Plan (ESAP). Through implementation of these measures, the Project is expected to be designed and operated in accordance with Performance Standards objectives.
+PS1: Environmental and Social Impact Assessment and Management
+Polic
+ies
+and
+Management
+Procedure
+.
+IndiGrid has an HSE Policy committed to zero harm to people, the environment, and the community
+.
+The company recently revised its E&S Management System (ESMS) manual to encompass the broader scope of operations in greenfield project development and
+other asset classes, such as solar and energy storage systems
+.
+This ESMS manual encompasses policies, impact and risk assessment tools, and management programs, including those for OHS management, contract management, security personnel, emergency preparedness and response planning, stakeholder engagement, external communication, and monitoring and management reviews.
+These are aligned with the IFC PS and WGB General EHS guidelines.
+Following ESAP #1,
+GBPL
+will develop and execute project-specific
+management procedures
+to
+assess
+and mitigate the impacts and risks associated with the BESS project.
+Impact Identification and Assessment.
+IndiGrid’s ESMS manual outlines a management framework
+for impact identification and assessment, which includes
+E&S Impact Assessment (ESIA). Per national legal requirements, battery energy storage system projects do not require prior environmental impact assessment and environmental clearance. IndiGrid
+is a conducting an
+E&S Assessment and Management Plan (limited ESA) for the BESS project to identify E&S risks and impacts
+aligned with IFC PS requirements
+related to project design, project location (climate risk), supply chain, construction, operations, and decommissioning of the BESS Project, including Quantitative Risk Assessment (QRA).
+The ESA study is in progress and is pending completion.
+Per
+ESAP # 2
+, the
+GBPL
+will implement the E&S management plan
+aligned with IFC PS
+prepared as a part of a limited ESA
+and QRA study
+. It
+will
+maintain a risk register to identify all E&S risks continually during operations and management.
+The company
+will be working with multiple contractors, including civil contractors, electrical contractors, battery and equipment suppliers, and a system integrator to commission the BESS Project. After commissioning, IndiGrid plans to handle the operation and management of the BESS Project internally and is developing in-house capability and experience by implementing the pilot BESS project in New Delhi. The company has a Health, Safety, and Environment (HSE) contractual requirement document specifying the contractors' obligations and outlining the procedures they need to follow.
+The HSE contractual document defines the duties and responsibilities of contractors, the appointment of HSE resources, HSE inspection and audits, contractor’s site HSE committee, requirement on storage of hazardous material, health hazard, and environmental control, welfare measures (toilets and drinking water), and includes HSE procedures on a range of issues includes a permit to work, electrical installations, LOTO, fire prevention and protection, PPEs, accident investigation and reporting, emergency response plan, etc
+.
+In addition to the general HSE contractual requirement document,
+GBPL
+will incorporate a construction E&S management plan
+that will be
+prepared as a part of limited ESA and other project-specific E&S provisions into the contractual agreements with the contractors and suppliers (
+ESAP #2
+).
+Organizational Capacity and Competencies
+.
+At the corporate level, Indi
+G
+rid has established the EHSS/ESG team led by the ESG Head, who reports to the Chief Operating Officer. The corporate team is responsible for implementing the ESMS and driving E&S performance. At the operational level, Indi
+G
+rid follows a regional and cluster approach to environmental health and safety (EHS) management.
+The regional heads, supported by EHS representatives, are responsible at the asset level for the overall implementation of E&S procedures outlined in the ESMS during operation and maintenance activities and for reporting on E&S performance to the corporate team
+.
+GBPL
+will depute an EHS resource for the BESS project for E&S management and ESAP implementation
+and ensure that the contractor deploys adequate EHS resources for the project. (
+ESAP #3
+)
+Emergency Preparedness and Response
+.
+IndiGrid has prepared a general Emergency Preparedness and Response (EPR) Plan, which is applied at the asset level. The EPR plan covers emergencies such as fire and explosion, animal attacks (including snake bites and insect attacks), oil and chemical spills, electrocution, falls from height, bomb threats, health-related emergencies, medical or
+accidental
+emergencies, and natural disasters and severe weather responses such as flooding.
+As part of
+ESAP #2
+,
+GBPL
+will customize the general EPR for the BESS Project and prepare a specific on-site EPR plan for fire and explosion in line with the QRA findings and ESMS manual, in consultation with GETCO and the other
+neighboring
+BESS developer.
+The EPR plan will encompass all potential emergencies, including fire, explosion, and toxic gas release from batteries due to fire. The plan will identify areas where accidents and emergencies may occur, communities and individuals that may be impacted, response procedures, provision of equipment and resources, designation of responsibilities, communications, and periodic training to ensure an effective response. The EPR plan will be aligned with the Disaster Management Plan for the area/region developed by state agencies.
+Monitoring and Review
+: I
+ndiGrid’s monitoring and review system includes ISO-related internal and external audits
+that meet national regulatory requirements. The annual sustainability reporting has yet to commence.
+As a part of project-specific ESMS, IndiGrid will develop the key performance indicators aligned with IFC PS and Good International Industry Practices along with targets and timelines for the E&S performance.
+PS 2: Labor and Working Conditions
+Human Resource (HR) Policies and Procedures.
+The BESS Project will not require a large labor forc
+e and is
+expected to employ fewer than ten people directly during operations. IndiGrid has implemented a set of corporate-level policies, including the Code of Ethical Business Conduct and an Employee Policy Manual that complies with national
+/state
+labor laws. The Employee Policy Manual covers various
+employee aspect
+s,
+including
+induction, attendance, leave, transfers, relocations, exit procedures, loans and advances, medical insurance, compensation, and other benefits. It also includes
+the
+Diversity, Equality, and Inclusion (DEI) policy and guidelines for preventing sexual harassment in the workplace (P
+O
+SH). The Code of Ethical Business Conduct includes elements on Whistle Blower, anti-discrimination, social media communication, and anti-corruption.
+IndiGrid has included a policy related to child and forced labor, freedom of association, and retrenchment in its updated ESMS manual, which is aligned with IFC PS. GBPL will ensure that IndiGrid’s HR policies and procedures applied to the project comply with the IFC PS2 requirements.
+Grievance Mechanism.
+The grievance redressal mechanism is outlined separately as part of
+the company'
+s stakeholder engagement policy and applies to internal and contractor employees. Grievances are received through email and addressed by the internal stakeholder grievance redressal committee, which is chaired by senior management and includes representatives from HR, legal, EHS, and governance. There is a separate Internal
+Complaint
+Committee
+(ICC)
+for POSH complaints.
+There is no heightened GBV risk in the project.
+Occupation Health and Safety
+(OHS):
+As part of EHS policy, IndiGrid has established the process for assessing OHS-related hazards and risks and ensures that appropriate measures for elimination, reduction, and control of risks are in place, including the incident management procedure. The OHS procedures include Safety Committees, OHS training, provision of PPEs, incident management, and OHS performance monitoring. Besides general training on fire safety, first aid, emergency preparedness and response, incident reporting, and PPEs, IndiGrid OHS training includes specific training on electrical safety, permit to work, Hazard Identification and Risk Assessment (HIRA), and Job Safety Analysis (JSA). Its current OHS procedures are tailored to TL and solar operations. Per
+ESAP # 2
+,
+GBPL
+IndiGrid will prepare and implement the climate-responsive OHS procedure for the BESS Project based on the OHS risks and hazards assessment.
+Supply Chain
+:
+The project supply chain includes one-time procurement of
+BESS
+and electronic components from international suppliers with connections to China.
+The internal due diligence process has identified suppliers up to the battery cell level. IFC due diligence indicates that the shortlisted supplier has a policy on modern-day slavery and a supply chain management system.
+IndiGrid has no explicit supplier code of conduct
+, and its supply chain management system (SCMS) is tailored for the transmission line business.
+In accordance with
+ESAP#
+4,
+IndiGrid/GBPL
+will
+update/develop SCMS for equipment procurement to ensure that a due diligence process is established to assess suppliers before entering a commercial relationship and that their practices are aligned with legal and IFC PS requirements. The SCMS will include
+an IFC PS-aligned code of conduct for suppliers,
+mapping of the supply chain, a procedure for
+due diligence
+of the potential equipment suppliers,
+contractual clauses
+requiring suppliers to comply with the code of conduct
+,
+engagement and disengagement procedure for when suppliers are found to be in breach of contractual obligations, supplier evaluation and verification procedure for compliance with code of conduct.
+IndiGrid
+/GBPL
+plans to appoint the Owners’ Engineer at the production site in China during the
+manufacturing
+period to ensure product quality.  This gives IndiGrid
+/GBPL
+leverage to monitor and verify compliance with the PS2 requirement at the primary supplier’s manufacturing site.
+Further, IndiGrid/GBPL will
+extend the scope of
+the
+Owners’ Engineer
+for the BESS project to ensure
+compliance with the
+terms of the supplier agreement.
+PS3: Resource Efficiency and Pollution Prevention
+Resource Consumption
+:
+The BESS Project requires water
+solely
+for domestic purposes. It will not emit air pollution or generate waste.
+The project is expected to reduce greenhouse gas (GHG) emissions by charging the batteries with renewable energy. GUVNL has guaranteed that 85% of the
+energy used
+for battery charging will
+originate
+from renewable energy sources
+within
+the grid. The remaining 15%
+will
+likely
+come
+from non-renewable sources.
+B
+atteries will be charged
+using
+surplus
+energy
+available during the day
+, and t
+he stored power will
+be discharged
+during evening or peak demand hours
+. This
+process facilitates
+the large-scale integration of renewable energy into the main grid systems. The
+projected
+annual GHG emissions
+for
+the BESS Project are 14,900 tons, with approximately 186,000 tons of GHG savings expected
+.
+Pollution Prevention
+:
+The BESS project may
+generate
+white noise
+characterized by
+buzzing and humming sound
+s,
+during
+the
+charging and discharging
+process associated with the site’s
+high-voltage electrical equipment (inverters and transformers). The
+nearest
+residential area is
+located about
+300 m
+eters
+from the project site.
+Under
+ESAP #2
+, as a part of the
+limited ESA
+,
+GBPL
+will
+assess the
+noise impacts on the nearby sensitive locations, develop and implement a noise management and monitoring plan, and ensure
+compliance with
+the WBG General EHS standards.
+Battery Waste Management
+:
+As per the project agreement with the GUVNL,
+GBPL
+is
+required
+to decommission the project
+at the end of the agreement period
+.
+This
+entails
+develop
+ing
+a draft decommissioning plan and ESMP
+that align with IFC PSs, EHS guidelines, current national regulations
+, and IFC responsible exit mechanism
+before exiting the IFC
+(
+ESAP #
+5
+).
+G
+B
+PL
+will update the draft decommissioning plan one year
+prior to the start of
+the decommissioning commencement date and ensure
+its execution follows the plan
+.
+The project is expected to generate battery and electronic waste during operations and decommissioning. According to
+ESAP #2
+,
+GBPL
+will
+develop and implement
+battery waste and e-waste management procedures to
+comply with
+national regulatory requirements and
+adhere to recognized
+international good industry practices
+. It will
+integrate appropriate contractual clauses in the supplier agreement
+to
+provid
+e
+an
+“end-of-life” plan and recycling responsibilities. Under the local Battery Waste Management Rules 2022, the battery importer is considered a “Producer” and must obtain registration from the Central Pollution Control Board for battery import activities, even for in-house use. The producer
+is responsible for
+Extended Producer Responsibility to
+fulfill
+the recycling or refurbish
+ment
+commitments directly or via authorized agencies.
+IndiGrid will
+fulfill these
+regulatory obligations
+and battery waste management.
+PS 4: Community Health, Safety, and Security
+Community Health and Safety.
+The BESS Project operations don’t involve any hazardous material and are not expected to impact community health and safety. The BESS risks fire and explosion due to thermal runaway and off-gassing from batteries. The project site is in the GIDC industrial area. The nearest habitation is about 300 m from the project site. The relevant portion of the EPR plan will be shared with relevant government agencies and
+external
+stakeholders who could potentially be affected. The project will train the community in the nearest village on the EPR. The transportation of containerized batteries for installation during construction may involve safety risks.
+GBPL
+will ensure adequate safety measures and
+an
+off-site
+EPR plan
+in the supplier’s agreement to address the safety risk during transportation
+and construction
+.
+Life and Fire Safety (L&FS)
+: The Life and Fire Safety (L&FS) measures for the battery container include a fire detection and suppression system, combustible gas detection and venting system, deflagration provision for explosion mitigation, HVWS provision, and early thermal runaway detection. Indi
+G
+rid is required to comply with UL-1973
+(
+batter safety certification)
+, IEC 62281 / UN 38.3
+(
+certification for safety of lithium-ion batteries during shipping
+)
+, IEC 61850 / DNP3
+(
+computer communication
+)
+, IEC 61508
+(
+functional safety of electrical and electronic systems)
+, and UL-9540
+(
+certification for thermal runway prevention
+)
+certifications
+as per the project agreement with GUVNL. As per the company information, the project will be designed with the NFPA 855 code for energy storage system installation, with every container equipped with fire safety provisions.
+GBPL will integrate the recommendations of the QRA study into the project design and
+EPR plan. IndiGrid will design and implement the BESS Project according to standards, including NFPA 70E Standard for Electrical Safety in the Workplace, NFPA 69 (standard on explosion prevention systems),
+and
+IEC 62619 (tests for the safe operation of batteries used in industrial applications)
+.
+Security Personnel.
+In compliance with previous investment ESAP requirement
+s
+,
+IndiGrid
+has
+developed a
+security management procedure
+aligned with IFC requirements
+. IndiGrid hires unarmed security personnel through licensed third-party security agencies. These agencies conduct screening and submit police verification certificates to IndiGrid.
+The security personnel are trained
+on POSH and community interaction
+.
+The IndiGrid procedures and practices will be applied to the BESS project.
+Stakeholder Engagement
+Stakeholder Engagement
+IndiGrid has established a stakeholder engagement and grievance redressal mechanism
+to address both internal and external grievances
+for each asset based on the nature, scale, and intensity of risks, impacts, and opportunities. This system is accessible to employees, workers, affected communities, suppliers, and any other relevant parties.
+External grievances encompass issues raised by contractors, third-party laborers, and the community. Grievances are received via email or through forms available at project sites in local languages. A grievance documentation and external communication system has been set up to track and monitor grievances.
+IFC
+’s
+review of the grievance redressal mechanism in the existing Indi
+G
+rid operations (transmission lines) indicates that the internal stakeholder mechanism is functioning effectively, while the external stakeholder mechanism, particularly regarding the community, requires strengthening
+As part of the
+limited
+ESA study,
+GBPL
+will undertake community consultations. The ESMP for the project will include a stakeholder engagement procedure for the construction phase, which IndiGrid and its construction contractors will implement. In addition,
+GBPL
+will develop and execute a project-specific Stakeholder Engagement Plan, including stakeholder mapping, stakeholder consultation on an ongoing basis during operation and maintenance, and disclosure of information to affected communities (
+ESAP # 2).
+Local Access of Project Documentation
+The company will locally disclose the E&S information for the project at the following locations: Any queries and/or comments about the project may be directed to:
+Company:
+IndiGrid
+Investment Managers Limited
+Point of Contact:
+Mr. Hrishikesh Shinde
+Title:
+ESG Manager
+:
+Telephone Number:
++91-9403549680
+Email:
+Hrishikesh.shinde@indigrid.com
+Mailing Address:
+Unit no. 101, 1st Floor, Windsor Building, Kalina, Santacruz East, Mumbai, Maharashtra 400098
+Website:
+www.indigrid.co.in
+Broad Community Support
+IFC's Determination of BCS
+Broad Community Support is not applicable for this project.
+Environmental & Social Action Plan
+Environmental & Social Action Plan
+S.no
+Description
+Anticipated Completion Date
+1
+IndiGrid will develop and implement the project specific ESMS. The project specific management plans will include (i) climate responsive OHS plan; (ii) the battery and e-waste management plan; (iii) noise monitoring and management plan; (iv) life and fire safety plan; (v) emergency preparedness and response plan; (vi) stakeholder engagement plan
+08/24/2025
+2
+IndiGrid will prepare and implement E&S management plans derived from the limited ESA and QRA study.
+02/01/2025
+3
+IndiGrid will appoint dedicated and qualified E&S resource person and establish an organization structure for E&S management for the BESS vertical
+02/01/2025
+4
+Strengthen supply chain management system for the equipment procurement  that would include (i) mapping the supply chain to lower tiers (ii) procedure for due diligence of the equipment suppliers (iii) IFC PS-aligned code of conduct for suppliers, (iv) contractual clauses in the suppliers agreement requiring compliance with ILO labor convention around the use of child and forced labor, safe working conditions, and worker’s protection (v) evaluating and verifying the compliance with the supplier code of conduct.
+02/28/2026
+5
+IndiGrid will prepare and submit draft decommissioning and related ESMP plan for the project to IFC 3 months prior to IFC exit
+01/31/2034
+Press-Release
+Related SII
+Similar Projects
+Information on E&S Complaints and Grievance Mechanisms
+**Information on IFC's Policy and Performance Standards on Environmental and Social Sustainability can be found at www.ifc.org/sustainability
+IFC supports its clients in addressing environmental and social issues arising from their business activities by requiring its real sector clients to set up and administer appropriate grievance mechanisms and/or procedures to address complaints from Affected Communities in relation to environmental and social issues arising from IFC's clients' business activities. Since 2012, IFC's Financial Intermediary clients applying the Performance Standards are required to develop External Communications Mechanisms to receive and review inquiries or complaints from any interested party regarding the E&S risks and impacts of their operations.
+For IFC projects that are active or under consideration, individual(s), or their authorized representative(s), who allege they have been or will be adversely affected by E&S risks or impacts arising from IFC's clients' business activities, may submit a complaint to IFC directly for consideration. When receiving an E&S complaint, IFC engages with complainants and works with its clients to find solutions to E&S concerns as quickly and efficiently as possible.
+Complaints can be submitted to IFC online at
+www.ifc.org/escomplaints
+or by email to
+EScomplaints@ifc.org
+.
+IFC complaint response is separate from and complementary to IFC’s clients’ project level grievance mechanisms and IFC’s Independent Accountability Mechanism (CAO). Lodging a complaint directly with IFC does not, at any time, restrict access to CAO.
+Affected communities have unrestricted access to the Compliance Advisor Ombudsman (CAO), the independent accountability mechanism for IFC and MIGA. CAO facilitates the resolution of complaints related to IFC and MIGA projects and sub-projects, undertakes reviews of IFC’s and MIGA’s environmental and social compliance, fosters public accountability for their commitments, and enhances the environmental and social performance of IFC and MIGA.
+Independent of IFC and MIGA management and reporting directly to the IFC and MIGA Boards of Executive Directors, CAO helps resolve issues raised about the environmental and social impacts of projects through a neutral, collaborative, problem-solving approach via its Dispute Resolution function. It also reviews IFC’s and MIGA’s compliance with environmental and social policies, assesses related harm, and recommends remedial actions through its Compliance function. Additionally, CAO provides advice to IFC, MIGA, and their Boards to enhance environmental and social sustainability performance and minimize the risk of harm.
+Complaints may relate to environmental and social harm regarding any aspect of the planning, implementation, or impact of a project or sub-project, and can be made by any individual, group, community, entity, or other party affected or likely to be affected by the environmental or social impacts of an IFC- or MIGA-financed business activity.
+Complaints can be submitted by any of the following methods:
+Online form:
+available at
+https://www.cao-ombudsman.org/
+Mail/Hand Delivery to:
+2121 Pennsylvania Avenue, NW, Washington, DC 20433, USA
+Voice mail:
++1 202 458 1973
+Email:
+cao@worldbankgroup.org
+SMS, WhatsApp, Telegram, and Signal:
++1 202 650 2627
+CAO receives and addresses complaints in accordance with the CAO Policy, which can be accessed at:
+https://www.cao-ombudsman.org/policies-guidelines
+.
+Disclaimer
+This Environmental and Social Review Summary (ESRS) is prepared by IFC to disclose its findings and recommendations related to environmental and social considerations regarding potential investments. Its purpose is to enhance the transparency of IFC's activities. For any project documentation or data included or attached herein, whether prepared by the project sponsor or otherwise, authorization has been given for public release by the project sponsor. IFC considers that this ESRS is of adequate quality for release to the public, but has not necessarily independently verified all of the project information therein.
+It is distributed in advance of IFC Board of Directors' consideration and may be periodically updated thereafter. Board dates are estimates only and this document should not be construed as presuming the outcome of the Board Directors’ decision. The following ESRS is disclosed in accordance with IFC's Access to Information Policy (AIP).
+The map is for illustrative purposes and does not imply the expression of any opinion on the part of the World Bank, concerning the legal status of any country or territory or concerning the delimitation of frontiers or boundaries. Country borders or names do not necessarily reflect the World Bank Group's official position. In some cases, available project location information is limited to the country of the project's activities. Locations are approximate.
+IBRD
+IDA
+IFC
+MIGA
+ICSID
+facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+WhatsApp
+About IFC
+Our Impact
+Careers
+Global language toggler
+English
+日本語
+Français
+عربي
+English
+© 2025 IFC
+User Agreement
+Privacy
+Scam Warning
+General Inquiry
+IBRD
+IDA
+IFC
+MIGA
+ICSID
+About IFC
+Our Impact
+Careers
+Global language toggler
+English
+日本語
+Français
+عربي
+English
+facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+WhatsApp
+© 2025 IFC
+User Agreement
+Privacy
+Scam Warning
+General Inquiry

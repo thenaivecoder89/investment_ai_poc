@@ -1,0 +1,6 @@
+source_id,source_name,source_url,target_filename,notes
+SEC_001_XBRL,NextEra Energy SEC company facts,https://data.sec.gov/api/xbrl/companyfacts/CIK0000753308.json,NextEra_Energy_companyfacts.json,
+SEC_002_XBRL,AES Corporation SEC company facts,https://data.sec.gov/api/xbrl/companyfacts/CIK0000874761.json,AES_Corporation_companyfacts.json,
+SEC_003_XBRL,First Solar SEC company facts,https://data.sec.gov/api/xbrl/companyfacts/CIK0001274494.json,First_Solar_companyfacts.json,
+SEC_004_XBRL,Ormat Technologies SEC company facts,https://data.sec.gov/api/xbrl/companyfacts/CIK0001296445.json,Ormat_Technologies_companyfacts.json,
+SEC_005_XBRL,Enphase Energy SEC company facts,https://data.sec.gov/api/xbrl/companyfacts/CIK0001463101.json,Enphase_Energy_companyfacts.json,

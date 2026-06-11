@@ -1,0 +1,2 @@
+source_id,source_name,source_url,target_filename,notes
+IRENA_001,IRENASTAT Power Capacity and Generation,CSV / manual export / PxWeb API,IRENASTAT_Electricity_Generation_By_Country_Technology_2010_Latest.csv,Manual export recommended because PxWeb table path can vary

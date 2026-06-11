@@ -1,0 +1,2 @@
+source_id,source_name,source_url,target_filename,notes
+PPI_001,World Bank PPI Custom Query,Structured dataset / manual export,WorldBank_PPI_Energy_Renewables_2010_Latest.xlsx,Manual UI export recommended
